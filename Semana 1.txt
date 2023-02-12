@@ -1,8 +1,9 @@
-Semana 1
+# Semana 1
 
 El contenido visto en esta semana nos ayuda bastante a como poder entender como 
 funcionan mejor las computadoras y de igual forma podemos ver como funciona una
 programa o como podemos empezar a programar
+
 
 
 La lógica es usada en todo el ámbito de la programacón ya que para poder realizar 
@@ -13,3 +14,8 @@ y en la vida diaria también podemos utilizar esto mismo como por ejemplo el hec
 iniciar cada día empezamos con el quitarnos la pijama y el comer nuestro desayuno
 labarnos los dientes y así hasta salir al trabajo, todo estos tienen cierto orden 
 que debemos seguir.
+
+# markdown
+
+Jorge: Jorge Antonio Reyes Agín
+Carnet: 23002239
