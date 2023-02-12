@@ -1,0 +1,20 @@
+Semana 2
+
+La programación nos puede ayudar para poder comunicarnos con la computadora
+y así poder darles instrucciones de las actividades que queremos que realice
+
+Podemos tomar como ejemplo si queremos que la computadora haga un contoe de 1 a 100
+podemos usar un bucle como "for" que quedaria de la siguiente forma en lenguaje Java
+for(i=0;i=100;i++){
+	System.out.println("Número: " + i);
+};
+
+Podemos utilizar este conociemiento en el día a día ya que podemos realizar tareas 
+como el hacer un palomitas: 1)Ponemos las palomitas en nuestro recipiente
+2)Agregamos un poco de mantequilla
+3)Encendemos la estufa
+4)Movemos hasta que empiecen a reventar los granos
+5)Lo quitamos del fuego
+6)Agregamos sal y mantequilla derretida
+Como podemos observar este pequeño programa fue capaza de dar instrucciones en un orden
+en el que podemos leerlo de forma clara y entendible
