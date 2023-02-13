@@ -1,0 +1,14 @@
+Semana 3
+
+La importancia de Git es muy grande ya que esto nos sirve para poder trabajar con 
+un grupo de personas en un mismo proyecto inclusive si están separadas por
+mucha distancia, es tan usado a nivel mundial que no podemos ignorar su importancia 
+para esta industria
+
+Como ejemplo cuando creamos un proyecto dende colaboran varias perosnas y estos
+trabajan desde lugares distintos y llevar un control de todo lo nuevo que agregaron 
+o las cosas que se eliminaron.
+
+Podemos ver un ejemplo más sencillo de Git si lo ponemos como un diario, donde 
+todos los días escribíamos una memoria donde se anotan cosas importantes en la vida
+donde podemos ver memorias de hace tiempo atras y al mismo tiempo seguir creando nuevas
