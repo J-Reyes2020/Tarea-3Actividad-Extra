@@ -1,4 +1,9 @@
-# Semana 1
+# markdown
+
+Jorge: Jorge Antonio Reyes Agín
+Carnet: 23002239
+
+> Semana 1
 
 El contenido visto en esta semana nos ayuda bastante a como poder entender como 
 funcionan mejor las computadoras y de igual forma podemos ver como funciona una
@@ -15,7 +20,4 @@ iniciar cada día empezamos con el quitarnos la pijama y el comer nuestro desayu
 labarnos los dientes y así hasta salir al trabajo, todo estos tienen cierto orden 
 que debemos seguir.
 
-# markdown
 
-Jorge: Jorge Antonio Reyes Agín
-Carnet: 23002239
